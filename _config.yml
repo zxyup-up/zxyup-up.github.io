@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangyu Zhao's Homepage"
+title                    : "Xiangyu Zhao"
 title_separator          : "-"
 name                     : &name "Xiangyu Zhao"
 description              : &description "Artificial Intelligence major. Interested in Computer Vision."
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Xiangyu Zhao"
-  avatar           : "profile.png"
+  avatar           : "xyz.png"
   bio              : "Artificial Intelligence major. Interested in Computer Vision."
-  location         : "Location"
+  location         : "China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dZshiXAAAAAJ&hl=zh-CN"
