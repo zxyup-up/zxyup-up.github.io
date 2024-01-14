@@ -17,6 +17,6 @@ From 2021 to 2025, I am pursuing a Bachelor's Degree in Artificial Intelligence 
 - National Encouragement scholarship(2022)
 
 ## Competitions & Awards
-- National First Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))(2023)(Certificate)
-- National Second Prize of RoboCon([Baike](https://baike.baidu.com/item/%E4%BA%9A%E5%A4%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/10130543))(2023)(Certificate)
-- National Second Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))(2022)(Certificate)
+- National First Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))(2023)([Certificate](../images/rcs/RoboCup23.jpg))([Trophy](../images/rcs/RoboCup231.png))
+- National Second Prize of RoboCon([Baike](https://baike.baidu.com/item/%E4%BA%9A%E5%A4%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/10130543))(2023)([Certificate](../images/rcs/RoboCon23.png))
+- National Second Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))(2022)([Certificate](../images/rcs/RoboCup22.png))
