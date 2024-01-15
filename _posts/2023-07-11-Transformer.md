@@ -69,9 +69,9 @@ Attention mechanisms
 - auto-regressive  预测当前时刻的输出依赖于前一时刻的输出，能够建模语言的连续性和上下文依赖性
 - 编码器结构：编码器由6个相同层堆叠而成。每个层有两个子层：  multi-head self-attention mechanism,和一个简单的 position-wise fully connected feed-forward network. 每一个子层周围使用residual connection残差连接，然后进行layer normalization层归一化。
     
-    ![Untitled](../images/2023-07-11/0.png)
+    ![Untitled](https://zxyup.me/images/2023-07-11/0.png)
     
-    ![Untitled](../images/2023-07-11/1.png)
+    ![Untitled](https://zxyup.me/images/2023-07-11/1.png)
     
     为了方便残差连接，子层以及嵌入层的输出维度规定为512
     
@@ -98,15 +98,15 @@ Attention mechanisms
 
 **Scaled Dot-Product Attention:**
 
-![Untitled](../images/2023-07-11/2.png)
+![Untitled](https://zxyup.me/images/2023-07-11/2.png)
 
-![Untitled](../images/2023-07-11/3.png)
+![Untitled](https://zxyup.me/images/2023-07-11/3.png)
 
 **Multi-Head Attention：**
 
-![Untitled](../images/2023-07-11/4.png)
+![Untitled](https://zxyup.me/images/2023-07-11/4.png)
 
-![Untitled](../images/2023-07-11/5.png)
+![Untitled](https://zxyup.me/images/2023-07-11/5.png)
 
 - learned linear projections多了一些调整的参数
 - perform the attention function in parallell                                可以并行地执行注意力函数
@@ -114,14 +114,14 @@ Attention mechanisms
 - 并且由于每个head的维数降低，因此总计算花销与原来的的single-head attention相似。
 - 实践证明是有益的
 
-![Untitled](../images/2023-07-11/6.png)
+![Untitled](https://zxyup.me/images/2023-07-11/6.png)
 
 **Position-wise Feed-Forward Networks：**
 
 - MLP
 - 512→2048→512
 
-![Untitled](../images/2023-07-11/7.png)
+![Untitled](https://zxyup.me/images/2023-07-11/7.png)
 
 **Embeddings and Softmax：**
 
@@ -140,7 +140,7 @@ Attention mechanisms
 - 一个词在嵌入层会表示为d=512的向量，故把代表位置的数字用d=512的向量表示
 - embeddings + positional encodings
 
-![Untitled](../images/2023-07-11/8.png)
+![Untitled](https://zxyup.me/images/2023-07-11/8.png)
 
 **Dropout：**
 
@@ -152,23 +152,23 @@ Attention mechanisms
 
 **通过在标签分布中引入小的均匀噪声来平滑标签,减少了真实样本标签的类别在计算损失函数时的权重,起到抑制过拟合的效果，并且提高模型的泛化能力**
 
-![Untitled](../images/2023-07-11/9.png)
+![Untitled](https://zxyup.me/images/2023-07-11/9.png)
 
-![Untitled](../images/2023-07-11/10.png)
+![Untitled](https://zxyup.me/images/2023-07-11/10.png)
 
 ****[Delving Deep into Label Smoothing](https://arxiv.org/abs/2011.12562)(TIP,2021)(CCF-A)**
 
 ## 主要流程图or算法图
 
-![Untitled](../images/2023-07-11/11.png)
+![Untitled](https://zxyup.me/images/2023-07-11/11.png)
 
-![Untitled](../images/2023-07-11/12.png)
+![Untitled](https://zxyup.me/images/2023-07-11/12.png)
 
 ## 对比分析  （Why Self-Attention）
 
 每一层的计算复杂度                   要求的顺序计算数           信息点之间的最长路径
 
-![Untitled](../images/2023-07-11/13.png)
+![Untitled](https://zxyup.me/images/2023-07-11/13.png)
 
 ## 实验结果
 
@@ -180,13 +180,13 @@ Attention mechanisms
 4. Adam
 5. Regularization方法    Residual Dropout     Label Smoothing
 
-![Untitled](../images/2023-07-11/14.png)
+![Untitled](https://zxyup.me/images/2023-07-11/14.png)
 
-![Untitled](../images/2023-07-11/15.png)
+![Untitled](https://zxyup.me/images/2023-07-11/15.png)
 
 ### 消融实验
 
-![Untitled](../images/2023-07-11/16.png)
+![Untitled](https://zxyup.me/images/2023-07-11/16.png)
 
 ## 疑惑
 
