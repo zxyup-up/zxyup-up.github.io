@@ -1,7 +1,7 @@
 ---
 title: 'Transformer Notes'
 date: 2023-07-11
-permalink: /posts/2012/08/transformer/
+permalink: /posts/2023/07/transformer/
 tags:
   - Transformer
   - Notes
@@ -9,13 +9,14 @@ tags:
 
 # 2023.07.11阅读笔记
 
-| 项目          | 详情             |
-|----------------|-----------------|
-| 笔记发布者  | 赵祥宇         |
-| 发表年月   | 2017/06/12 |
-| 发表情况   | NIPS 2017      |
-| 类型         | Conference Article  |
-| 论文简述  | Transformer      |
+| 项目      | 详情                  |
+|-------    |-----------------      |
+| 笔记发布者  | 赵祥宇             |
+| 发表年月   | 2017/06/12        |
+| 发表情况   | NIPS 2017           |
+| 类型        | Conference Article |
+| 论文简述   | Transformer         |
+
 # 论文名
 
 Attention Is All You Need
