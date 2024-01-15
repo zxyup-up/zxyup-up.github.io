@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 - From 2021 to 2025, I am pursuing a Bachelor's Degree in Artificial Intelligence at the [School of Information](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/).
-- Advisor of the [RCS](https://www.rcstech.org/) Robot Team at Xiamen University. Leader of the Computer Vision Group(2022-2023).
+- Advisor of the [RCS](https://www.rcstech.org/about.html) Robot Team at Xiamen University. Leader of the Computer Vision Group(2022-2023).
 - Vice Minister of Nanqiang Electronic Innovation Association, Xiamen University.(2022-2023)
 
 ## Honors & Awards
