@@ -1,11 +1,21 @@
+---
+title: 'Transformer Notes'
+date: 2023-07-11
+permalink: /posts/2012/08/transformer/
+tags:
+  - Transformer
+  - Notes
+---
+
 # 2023.07.11阅读笔记
 
-笔记发布者: 赵祥宇
-发表年月: 2017/06/12
-发表情况: NIPS 2017
-类型: Conference Article
-论文简述: Transformer
-
+| 项目          | 详情             |
+|----------------|-----------------|
+| 笔记发布者  | 赵祥宇         |
+| 发表年月   | 2017/06/12 |
+| 发表情况   | NIPS 2017      |
+| 类型         | Conference Article  |
+| 论文简述  | Transformer      |
 # 论文名
 
 Attention Is All You Need
@@ -155,7 +165,7 @@ Attention mechanisms
 
 ## 对比分析  （Why Self-Attention）
 
-                                                                              每一层的计算复杂度                   要求的顺序计算数           信息点之间的最长路径
+每一层的计算复杂度                   要求的顺序计算数           信息点之间的最长路径
 
 ![Untitled](../images/2023-07-11/13.png)
 
@@ -179,7 +189,7 @@ Attention mechanisms
 
 ## 疑惑
 
-- position-wise层没发现wise在哪
+
 
 ## 总结
 
