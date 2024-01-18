@@ -12,7 +12,7 @@ tags:
 ## Binocular camera distance measurement
  
 ## 原理(基于视差($D=X_{R}-X_{T}$))
-### $Z=\frac{B*f}{X_{R}-X_{T}}=\frac{B*f}{D}$
+$$Z=\frac{B*f}{X_{R}-X_{T}}=\frac{B*f}{D}$$
 ![principle](../images/2023-10-15/principle.png)
 
 ## 要点
