@@ -1,7 +1,7 @@
 ---
 title: 'Transformer Notes'
 date: 2023-07-11
-permalink: /posts/2023/07/transformer/
+permalink: /transformer/
 tags:
   - Transformer
   - Notes
