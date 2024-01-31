@@ -24,7 +24,7 @@ redirect_from:
 - National Second Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))(2022)([Certificate](../images/rcs/RoboCup22.png))
 
 <p align="center">
-  <a href="https://mapmyvisitors.com/web/1bvs4">
-    <img src="https://mapmyvisitors.com/map.png?d=UOCjkLHlx9p-APlPxZg2zG9GeJYod6TmlAgKsRXj9Pw&cl=ffffff" alt="Visit tracker"/>
-  </a>
+  <!-- <a href="https://mapmyvisitors.com/web/1bvs4"> -->
+  <img src="https://mapmyvisitors.com/map.png?d=UOCjkLHlx9p-APlPxZg2zG9GeJYod6TmlAgKsRXj9Pw&cl=ffffff" alt="Visit tracker"/>
+  <!-- </a> -->
 </p>
