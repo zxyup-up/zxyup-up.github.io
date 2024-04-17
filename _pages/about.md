@@ -19,12 +19,14 @@ redirect_from:
 - National Encouragement scholarship(2022)
 
 ## Selected Competitions & Prize
-- National First Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))(2023)([Certificate](../images/rcs/RoboCup23.jpg))([Trophy](../images/rcs/RoboCup231.png))
-- National Second Prize of RoboCon([Baike](https://baike.baidu.com/item/%E4%BA%9A%E5%A4%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/10130543))(2023)([Certificate](../images/rcs/RoboCon23.png))
-- National Second Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))(2022)([Certificate](../images/rcs/RoboCup22.png))
+- 2023 National First  Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))([Certificate](../images/rcs/RoboCup23.jpg))([Trophy](../images/rcs/RoboCup231.png))
+- 2023 National Second Prize of RoboCon([Baike](https://baike.baidu.com/item/%E4%BA%9A%E5%A4%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B/10130543))([Certificate](../images/rcs/RoboCon23.png))
+- 2022 National Second Prize of RoboCup([Baike](https://baike.baidu.com/item/RoboCup%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9B/19753207))([Certificate](../images/rcs/RoboCup22.png))
 
-<p align="center">
+<!-- <p align="center">
   <!-- <a href="https://mapmyvisitors.com/web/1bvs4"> -->
   <img src="https://mapmyvisitors.com/map.png?d=UOCjkLHlx9p-APlPxZg2zG9GeJYod6TmlAgKsRXj9Pw&cl=ffffff" alt="Visit tracker"/>
   <!-- </a> -->
-</p>
+</p> -->
+
+<a href="https://clustrmaps.com/site/1bzag"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=MICcNcPoazNzt6zZFqdF_ZfCjP704OKlUPqVaM3dKWQ&cl=ffffff" /></a>
